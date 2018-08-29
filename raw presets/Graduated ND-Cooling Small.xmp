@@ -1,0 +1,55 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   crs:HasSettings="True"
+   crs:EnableGradientBasedCorrections = "true"
+   crs:ProcessVersion = "6.7"
+   crs:orientation = "AB">
+   <crs:GradientBasedCorrections>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:CorrectionActive = "true"
+       crs:CorrectionAmount = "1"
+       crs:CorrectionID = "0FADB85C-965B-4192-9D9F-A985F3749178"
+       crs:CorrectionReferenceX = "0.454905"
+       crs:CorrectionReferenceY = "0.245126"
+       crs:LocalBrightness = "0"
+       crs:LocalClarity = "0"
+       crs:LocalClarity2012 = "-0.103448"
+       crs:LocalContrast = "0"
+       crs:LocalContrast2012 = "0"
+       crs:LocalExposure = "-0.457866"
+       crs:LocalExposure2012 = "0"
+       crs:LocalHighlights2012 = "0"
+       crs:LocalLuminanceNoise = "0"
+       crs:LocalMoire = "0"
+       crs:LocalSaturation = "0"
+       crs:LocalShadows2012 = "0"
+       crs:LocalSharpness = "0"
+       crs:LocalTemperature = "-0.5"
+       crs:LocalTint = "0"
+       crs:LocalToningHue = "0"
+       crs:LocalToningSaturation = "0"
+       crs:What = "Correction">
+       <crs:CorrectionMasks>
+        <rdf:Seq>
+         <rdf:li
+          crs:FullX = "0.454905"
+          crs:FullY = "-0.009657"
+          crs:MaskID = "F556D499-1F41-4C61-93FA-D3C00440465D"
+          crs:MaskValue = "1"
+          crs:What = "Mask/Gradient"
+          crs:ZeroX = "0.454905"
+          crs:ZeroY = "0.499909"/>
+        </rdf:Seq>
+       </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:GradientBasedCorrections>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

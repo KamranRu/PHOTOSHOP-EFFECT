@@ -1,0 +1,43 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   crs:HasSettings="True"
+   crs:AutoBrightness = "false"
+   crs:AutoContrast = "false"
+   crs:AutoShadows = "false"
+   crs:Brightness = "69"
+   crs:Contrast = "81"
+   crs:ConvertToGrayscale = "true"
+   crs:EnableGrayscaleMix = "true"
+   crs:GrayMixerAqua = "-17"
+   crs:GrayMixerBlue = "4"
+   crs:GrayMixerGreen = "-28"
+   crs:GrayMixerMagenta = "4"
+   crs:GrayMixerOrange = "-29"
+   crs:GrayMixerPurple = "29"
+   crs:GrayMixerRed = "-21"
+   crs:GrayMixerYellow = "-38"
+   crs:ParametricDarks = "-33"
+   crs:ParametricHighlightSplit = "75"
+   crs:ParametricHighlights = "1"
+   crs:ParametricLights = "3"
+   crs:ParametricMidtoneSplit = "50"
+   crs:ParametricShadowSplit = "25"
+   crs:ParametricShadows = "37"
+   crs:Shadows = "5"
+   crs:ToneCurveName = "Medium Contrast">
+   <crs:ToneCurve>
+    <rdf:Seq>
+    <rdf:li>0,0</rdf:li>
+    <rdf:li>32,22</rdf:li>
+    <rdf:li>64,56</rdf:li>
+    <rdf:li>128,128</rdf:li>
+    <rdf:li>192,196</rdf:li>
+    <rdf:li>255,255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

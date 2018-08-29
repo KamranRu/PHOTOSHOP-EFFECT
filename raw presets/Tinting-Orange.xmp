@@ -1,0 +1,36 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c007 1.136881, 2010/06/10-18:11:35">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   crs:HasSettings="True"
+   crs:ConvertToGrayscale = "false"
+   crs:EnableColorAdjustments = "true"
+   crs:HueAdjustmentAqua = "0"
+   crs:HueAdjustmentBlue = "0"
+   crs:HueAdjustmentGreen = "0"
+   crs:HueAdjustmentMagenta = "0"
+   crs:HueAdjustmentOrange = "0"
+   crs:HueAdjustmentPurple = "0"
+   crs:HueAdjustmentRed = "0"
+   crs:HueAdjustmentYellow = "0"
+   crs:LuminanceAdjustmentAqua = "0"
+   crs:LuminanceAdjustmentBlue = "0"
+   crs:LuminanceAdjustmentGreen = "0"
+   crs:LuminanceAdjustmentMagenta = "0"
+   crs:LuminanceAdjustmentOrange = "0"
+   crs:LuminanceAdjustmentPurple = "0"
+   crs:LuminanceAdjustmentRed = "0"
+   crs:LuminanceAdjustmentYellow = "0"
+   crs:ProcessVersion = "6.7"
+   crs:SaturationAdjustmentAqua = "-100"
+   crs:SaturationAdjustmentBlue = "-100"
+   crs:SaturationAdjustmentGreen = "-100"
+   crs:SaturationAdjustmentMagenta = "-85"
+   crs:SaturationAdjustmentOrange = "0"
+   crs:SaturationAdjustmentPurple = "-85"
+   crs:SaturationAdjustmentRed = "-85"
+   crs:SaturationAdjustmentYellow = "-100">
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
